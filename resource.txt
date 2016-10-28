@@ -1,4 +1,3 @@
-说明： 该wiki为【阿铭Linux】培训所用到的所有资源汇总，有系统下载地址、源码包下载地址、电子书下载地址等各种资源。
 CentOS6.7下载地址：
 
 32位 http://mirrors.sohu.com/centos/6.7/isos/i386/CentOS-6.7-i386-bin-DVD1.iso
